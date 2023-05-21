@@ -1,0 +1,4 @@
+void cleanBuffer(
+{
+while(getchar() != '\n' && getchar() != EOF);
+}
