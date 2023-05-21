@@ -1,11 +1,11 @@
 # Maratona de Programação Fatec Mogi Mirim 2023
 
-## Equipe Alt+F4 - 3º Lugar
+## Equipe Alt+F4 - 3º Lugar 🏆
 
--Douglas Henrique Dionysio Costa
--Gabriel Christiano
--Guilherme Ferraz Ronha
--Marcelo
+- Douglas Henrique Dionysio Costa
+- Gabriel Christiano
+- Guilherme Ferraz Ronha
+- Marcelo
 
 ## Código
 
